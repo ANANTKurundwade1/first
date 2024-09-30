@@ -1,13 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int (int n)
 
 {
-	int s=1;
+	int s = 1;
 	printf("Enter the n value:");
 	scanf("%d",&int n);
 	
-	if (n==s)
+	if (n == s)
 	{
 		printf("True");
 	}
@@ -24,7 +24,7 @@ void main()
 	printf("Enter the p value:");
 	scanf("%d",&p);
 	
-	if (p>4)
+	if (p > 4)
 	{
 		printf("True");
 	}
@@ -70,8 +70,8 @@ void main()
 void main()
 {
 	int A,B,C;
-	A=10;
-	B=20
-	C=A+B;
+	A = 10;
+	B = 20
+	C = A+B;
 	printf("C=%d",c);
 }
