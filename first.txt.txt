@@ -1,0 +1,43 @@
+#include<stdio.h>
+
+int (int n)
+
+{
+	int s=1;
+	printf("Enter the n value:");
+	scanf("%d",&int n);
+	
+	if (n==s)
+	{
+		printf("True");
+	}
+	else
+	{
+		printf("False");
+	}
+	return 0;
+}
+void main()
+
+{
+	int p;
+	printf("Enter the p value:");
+	scanf("%d",&p);
+	
+	if (p>4)
+	{
+		printf("True");
+	}
+	else
+	{
+		printf("False");
+	}
+}
+void main()
+{
+	int A,B,C;
+	A=10;
+	B=20
+	C=A+B;
+	printf("C=%d",c);
+}
