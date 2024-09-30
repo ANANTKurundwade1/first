@@ -74,4 +74,4 @@ void main()
 	B = 20
 	C = A+B;
 	printf("C=%d",c);
-}
+}//editted by anjan
